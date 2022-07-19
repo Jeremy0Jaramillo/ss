@@ -17,3 +17,6 @@ https://github.com/ProgOrientadaObjetos-PPA-AA2022/taller04-Jeremy0Jaramillo.git
 
 Relaciones entre clases, ejecutores y metodos
 https://github.com/ProgOrientadaObjetos-PPA-AA2022/clase05-1bim-Jeremy0Jaramillo.git
+
+Grafos página
+https://stackabuse.com/graphs-in-java-representing-graphs-in-code/
